@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//NikitaOlshevsky.github.io/marvelproject/static/css/main.e4e6ec41.chunk.css",
+    "main.js": "/http//NikitaOlshevsky.github.io/marvelproject/static/js/main.dd807219.chunk.js",
+    "main.js.map": "/http//NikitaOlshevsky.github.io/marvelproject/static/js/main.dd807219.chunk.js.map",
+    "runtime-main.js": "/http//NikitaOlshevsky.github.io/marvelproject/static/js/runtime-main.276fd174.js",
+    "runtime-main.js.map": "/http//NikitaOlshevsky.github.io/marvelproject/static/js/runtime-main.276fd174.js.map",
+    "static/js/2.07cf8d5f.chunk.js": "/http//NikitaOlshevsky.github.io/marvelproject/static/js/2.07cf8d5f.chunk.js",
+    "static/js/2.07cf8d5f.chunk.js.map": "/http//NikitaOlshevsky.github.io/marvelproject/static/js/2.07cf8d5f.chunk.js.map",
+    "index.html": "/http//NikitaOlshevsky.github.io/marvelproject/index.html",
+    "static/css/main.e4e6ec41.chunk.css.map": "/http//NikitaOlshevsky.github.io/marvelproject/static/css/main.e4e6ec41.chunk.css.map",
+    "static/js/2.07cf8d5f.chunk.js.LICENSE.txt": "/http//NikitaOlshevsky.github.io/marvelproject/static/js/2.07cf8d5f.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/http//NikitaOlshevsky.github.io/marvelproject/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/http//NikitaOlshevsky.github.io/marvelproject/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/http//NikitaOlshevsky.github.io/marvelproject/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.276fd174.js",
+    "static/js/2.07cf8d5f.chunk.js",
+    "static/css/main.e4e6ec41.chunk.css",
+    "static/js/main.dd807219.chunk.js"
+  ]
+}
